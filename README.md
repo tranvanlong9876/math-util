@@ -8,7 +8,7 @@
 * README.md - this file itself to show the home page of this repo
 
 ## Connect me via
-[Facebook] (https://facebook.com/OneChamp.Jhin)
-[EMAIL] (mailto:traanvanlongo@gmail.com)
+1. [Facebook](https://facebook.com/OneChamp.Jhin)
+2. [EMAIL](mailto:traanvanlongo@gmail.com)
 
 ####  © 2020 by Tran Van Long 
