@@ -1,4 +1,5 @@
 # Welcome to Math Utility repository
+![Practice CI with GitHub Actions using Ant and JUnit | © 2020 by Tran Van Long](https://github.com/tranvanlong9876/math-util/workflows/Practice%20CI%20with%20GitHub%20Actions%20using%20Ant%20and%20JUnit%20%7C%20%C2%A9%202020%20by%20Tran%20Van%20Long/badge.svg)
 
 ### This repo contains the Java source code to simulate the methods of Math class fount in JDK
 
